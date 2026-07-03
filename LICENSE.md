@@ -1,4 +1,4 @@
-# 
+# Ligero AI Object Detection with TensorFlow.js preajustes. Con redes neuronales y aprendizaje por refuerzo — optimizado para el máximo rendimiento.
 
 
 
